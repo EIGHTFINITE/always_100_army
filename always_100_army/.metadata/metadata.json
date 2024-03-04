@@ -1,0 +1,12 @@
+{
+  "name" : "always_100_army",
+  "id" : "",
+  "version" : "1.0",
+  "supported_game_version" : "1.5.*",
+  "short_description" : "",
+  "tags" : ["Balance","Economy And Buildings","Fixes","Gameplay","Warfare"],
+  "relationships" : [],
+  "game_custom_data" : {
+    "multiplayer_synchronized" : true
+  }
+}
