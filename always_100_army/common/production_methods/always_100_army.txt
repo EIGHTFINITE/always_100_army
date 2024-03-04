@@ -3,6 +3,9 @@
 	unlocking_technologies = {
 		military_statistics
 	}
+	disallowing_laws = {
+		law_national_militia
+	}
 	building_modifiers = {
 
 		level_scaled = {
@@ -18,6 +21,9 @@ pm_training_streamlining = {
 	unlocking_technologies = {
 		wargaming
 	}
+	disallowing_laws = {
+		law_national_militia
+	}
 	building_modifiers = {
 
 		level_scaled = {
@@ -32,6 +38,9 @@ pm_nco_incorporation = {
 	texture = "gfx/interface/icons/production_method_icons/nco_incorporation.dds"
 	unlocking_technologies = {
 		nco_training
+	}
+	disallowing_laws = {
+		law_national_militia
 	}
 	building_modifiers = {
 		workforce_scaled = {
