@@ -1,0 +1,46 @@
+﻿pm_advanced_tactics_training = {
+	texture = "gfx/interface/icons/production_method_icons/squad_infantry.dds"
+	unlocking_technologies = {
+		military_statistics
+	}
+	building_modifiers = {
+
+		level_scaled = {
+			building_employment_soldiers_add = 900
+			building_employment_officers_add = 100
+			building_training_rate_add = 21
+		}
+	}
+}
+
+pm_training_streamlining = {
+	texture = "gfx/interface/icons/production_method_icons/skirmish_infantry.dds"
+	unlocking_technologies = {
+		wargaming
+	}
+	building_modifiers = {
+
+		level_scaled = {
+			building_employment_soldiers_add = 850
+			building_employment_officers_add = 150
+			building_training_rate_add = 24
+		}
+	}
+}
+
+pm_nco_incorporation = {
+	texture = "gfx/interface/icons/production_method_icons/nco_incorporation.dds"
+	unlocking_technologies = {
+		nco_training
+	}
+	building_modifiers = {
+		workforce_scaled = {
+		}
+
+		level_scaled = {
+			building_employment_soldiers_add = 800
+			building_employment_officers_add = 200
+			building_training_rate_add = 27
+		}		
+	}
+}
